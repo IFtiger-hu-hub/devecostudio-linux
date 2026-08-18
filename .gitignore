@@ -9,3 +9,6 @@ pkg/
 # Manually downloaded sources (must be provided by user)
 *.zip
 idea-*.tar.gz
+build/
+dist/
+*.tar.gz
